@@ -8,6 +8,7 @@ Unity/SR HDRP/[Oo]bj/
 Unity/SR HDRP/[Bb]uild/
 Unity/SR HDRP/[Bb]uilds/
 Unity/SR HDRP/[Ll]ogs/
+Python/Python/input/
 [Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
